@@ -11,10 +11,10 @@
  para crear páginas wed que usamos todos los días en el navegador. En este proyecto, con los conocimientos de HTML y CSS realicé la clonación de la interfaz de Google.
 
 ### 2. Qué construí
-En este proyecto me enfocque en contruir la interfaz de Google.
+En este proyecto me enfoque en construir la interfaz de Google.
 Contiene las siguientes secciones:
 
-- **Header:** Sección que involucra la foto de mi perfil, iconos y un nenú con enlaces externos.
+- **Header:** Sección que involucra la foto de mi perfil, iconos y un menú con enlaces externos.
 
 - **Main:** Sección del contenedor para los elementos centrales de la página: logo, barra de búsqueda, iconos y botones.
 
